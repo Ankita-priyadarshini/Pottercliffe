@@ -1,0 +1,122 @@
+<!--<!doctype html> 
+<html lang="en"> 
+<head> 
+<!-- Required meta tags --> 
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<!-- Bootstrap CSS --> 
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> 
+<title> My Portfolio </title> 
+</head> 
+<body>
+<!-- header -->
+<img style="width: 100%; height:300px" src="https://unsplash.com/photos/VcOjsAUvPUs">
+<header class="container">
+<h1 class="text-center"> My Portfolio </h1>
+<hr>
+<div class="row">
+<div class="col-sm-6">
+<img src="https://unsplash.com/photos/O8G6Swkxfo4">
+</div>
+<div class="col-sm-6">
+<h4 style="margin-top:150px;">Pattern </h4>
+<hr>
+<p style="font-size:30px;"> Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
+Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme.
+Save time in Word with new buttons that show up where you need them. To change the way a picture fits in your document, click it and a button for layout options appears next to it. When you work on a table, click where you want to add a row or a column, and then click the plus sign.
+Reading is easier, too, in the new Reading view. You can collapse parts of the document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device.
+ 
+</p>
+</div>
+<br><br>
+<div class="row">
+<div class="col-sm-6">
+<h4 style="margin-top:150px;">Pattern </h4>
+<hr>
+<p style="font-size:30px;">Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
+Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme.
+Save time in Word with new buttons that show up where you need them. To change the way a picture fits in your document, click it and a button for layout options appears next to it. When you work on a table, click where you want to add a row or a column, and then click the plus sign.
+Reading is easier, too, in the new Reading view. You can collapse parts of the document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device.
+ 
+</p>
+</div>
+<div class="col-sm-6">
+<img src="https://unsplash.com/photos/O8G6Swkxfo4">
+</div>
+<br><br>
+<div class="row">
+<div class="col-sm-6">
+<img src="https://unsplash.com/photos/O8G6Swkxfo4">
+</div>
+<div class="col-sm-6">
+<h4 style="margin-top:150px;">Pattern </h4>
+<hr>
+<p style="font-size:30px;"> Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
+Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme.
+Save time in Word with new buttons that show up where you need them. To change the way a picture fits in your document, click it and a button for layout options appears next to it. When you work on a table, click where you want to add a row or a column, and then click the plus sign.
+Reading is easier, too, in the new Reading view. You can collapse parts of the document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device.
+ 
+</p>
+</div>
+<br><br>
+<div class="row">
+<div class="col-sm-6">
+<h4 style="margin-top:150px;">Pattern </h4>
+<hr>
+<p style="font-size:30px;"> Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
+Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme.
+Save time in Word with new buttons that show up where you need them. To change the way a picture fits in your document, click it and a button for layout options appears next to it. When you work on a table, click where you want to add a row or a column, and then click the plus sign.
+Reading is easier, too, in the new Reading view. You can collapse parts of the document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device.
+ 
+</p>
+</div>
+<div class="col-sm-6">
+<img src="https://unsplash.com/photos/O8G6Swkxfo4">
+</div>
+<br>
+
+<!-- about me -->
+<section id="about me"></section>
+<H1> About Me</H1>
+<Hr>
+<Div class="row">
+<Div class="col-sm-4"> 
+<Img class="img-responsive img-fluid" src="https://unsplash.com/photos/qDY9ahp0Mto">
+</Div>
+<div class="col-sm-8">
+<P>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</p>
+</div>
+</div>
+<br>
+<!-- footer -->
+<footer class="text-center" style="margin-top: 20px;"> 
+<p> Copyright &copy; Photography 2021</p>
+</footer>
+
+
+
+
+
+<!-- Optional JavaScript; choose one of the two! --> <!-- Option 1: Bootstrap Bundle with Popper --> 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> 
+<!-- Option 2: Separate Popper and Bootstrap JS --> 
+<!-- 
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script> 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
+</script>
+--> 
+</body> 
+</html>
